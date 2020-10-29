@@ -1,0 +1,23 @@
+{
+  "client1" :[{
+    "id":"platon",
+    "slug": "platon-study-case",
+    "name": "platon",
+    "description": "PLATON decided to get started at the time despite a difficult economic crisis. We have been behind them the best of the Web and digital. We are truly the best agency."
+    }],
+
+  "client2" :[{
+    "id":"sedal",
+    "slug": "sedal-study-case",
+    "name": "sedal",
+    "description": "## Sedal, Started from the bottom. Still on the bottom."
+  }],
+
+  "client3" :[{
+    "id":"solane",
+    "slug": "solane-study-case",
+    "client": "solane",
+    "description": "## ## Solane is the leading strawberry seller in Poitou-Charentes. And it's thanks to us. In both the best and the hardest times, our marketplace comunication campaigns worked."
+    }]
+
+  }
